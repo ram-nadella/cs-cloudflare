@@ -1,0 +1,101 @@
+{
+    "name":"Clearspike",
+    "description": "Clearspike helps websites attract organic search engine traffic and generate new business online - without requiring technical experience or a big budget. Its a very simple yet highly effective SEO automation tool. We have rolled the intricacies of SEO into an easy-to-use pay-as-you-go service with convenient plans starting at just $24 a month.",
+    "keywords":["Automated Online SEO", "Website Analysis Tool", "Automated Page Editing and Promotion Tool"],
+    "version": "0.0.6",
+    "account": {
+        "callback_url": "http://beta1.clearspike.com/cloudflare",
+        "user_fields": ["email"]
+    },
+    "billing": {
+        "type": "zone",
+        "plans":[
+            {
+                "name" : "Self-Service",
+                "price": "24"
+            },
+            {
+                "name" : "Automated",
+                "price" : "49"
+            },
+            {
+                "name" : "Do-It-For-Me",
+                "price" : "199"
+            }
+        ]
+    },
+    "config":{
+        "details":{
+            "Category": "Search Engine Optimization",
+            "Language": "English",
+            "Price": "Plans starting at just $24 a month",
+            "Restrictions": "[View terms](http://www.clearspike.com/terms)",
+            "Terms & Conditions": "http://www.clearspike.com/terms"
+        },
+        "assets":{
+            "logos" : {
+                "200px": "./public/images/logo-200.png",
+                "132px": "./public/images/logo-132.png"
+            },
+            "detail_page" : [
+                "./public/images/clearspike-header.png"
+            ],
+            "images" : [
+                "./public/images/clearspike-header.png"
+            ]
+        },
+        "interface": [
+            {
+                "type": "string",
+                "name": "Domain Name",
+                "description": "Website Domain Name",
+                "id": "domain",
+                "domain_request": true
+            },
+            {
+                "id": "subscription_type",
+                "type": "select",
+                "name": "Subscription Type",
+                "description": "Subscription Type",
+                "options": [
+                    {
+                        "label": "1 Month",
+                        "value": "0"
+                    },
+                    {
+                        "label": "1 Year",
+                        "value": "1"
+                    }
+                ]
+            },
+            {
+                "type": "string",
+                "name": "First Name",
+                "description": "First Name",
+                "id": "first_name",
+                "domain_request": true
+            },
+            {
+                "type": "string",
+                "name": "Last Name",
+                "description": "Last Name",
+                "id": "last_name",
+                "domain_request": true
+            },
+            {
+                "type": "string",
+                "name": "Password",
+                "description": "Password",
+                "id": "password",
+                "domain_request": true
+            },
+            {
+                "type": "string",
+                "name": "Confirm Password",
+                "description": "Confirm Password",
+                "id": "confirm_password",
+                "domain_request": true
+            }
+        ]
+    }
+}
