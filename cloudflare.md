@@ -1,4 +1,4 @@
-![Clearspike](/public/images/clearspike-header.png "Clearspike more traffic, no more hassle.")
+![Clearspike](./public/images/clearspike-header.png "Clearspike more traffic, no more hassle.")
 
 
 Clearspike helps websites attract organic search engine traffic and generate new business online - without requiring technical experience or a big budget. Its a very simple yet highly effective SEO automation tool. We have rolled the intricacies of SEO into an easy-to-use pay-as-you-go service with convenient plans starting at just $24 a month.
