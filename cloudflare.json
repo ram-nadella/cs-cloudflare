@@ -26,7 +26,6 @@
     },
     "config":{
         "details":{
-            "Category": "search engine optimization",
             "Language": "English",
             "Price": "Plans starting at just $24 a month",
             "Restrictions": "<a href='http://www.clearspike.com/terms' target='_blank'>View terms</a>"
@@ -47,14 +46,12 @@
             {
                 "type": "string",
                 "name": "First Name",
-                "description": "First Name",
                 "id": "first_name",
                 "domain_request": true
             },
             {
                 "type": "string",
                 "name": "Last Name",
-                "description": "Last Name",
                 "id": "last_name",
                 "domain_request": true
             }
