@@ -2,9 +2,9 @@
     "name":"Clearspike",
     "description": "Clearspike helps websites attract organic search engine traffic and generate new business online - without requiring technical experience or a big budget. Its a very simple yet highly effective SEO automation tool. We have rolled the intricacies of SEO into an easy-to-use pay-as-you-go service with convenient plans starting at just $24 a month.",
 	"category": "search engine optimization",
-    "version": "0.0.20",
+    "version": "0.0.21",
     "account": {
-        "callback_url": "http://beta1.clearspike.com/cloudflare",
+        "callback_url": "http://www.clearspike.com/cloudflare",
         "user_fields": ["email"]
     },
     "billing": {
