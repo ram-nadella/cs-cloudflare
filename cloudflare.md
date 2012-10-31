@@ -28,7 +28,7 @@ Automated Plan: Use Clearspike tools to get website optimized automatically. $49
 
 Do-It-For-Me Plan: Get Clearspike experts to optimize your website. $199 / month.
 
-[Clearspike Dashboard](/images/apps/clearspike/dashboard-1.png "Clearspike more traffic, no more hassle.")
+![Clearspike Dashboard](/images/apps/clearspike/dashboard-1.png "Clearspike more traffic, no more hassle.")
 
 Have questions? Please [contact Clearspike Support](mailto:support@clearspike.com?Subject=CloudFlare%20Question).
 
