@@ -1,26 +1,36 @@
-![Clearspike](/images/apps/clearspike/clearspike-header.png "Clearspike more traffic, no more hassle.")
-
-Clearspike helps websites attract organic search engine traffic and generate new business online - without requiring technical experience or a big budget. Its a very simple yet highly effective SEO automation tool. We have rolled the intricacies of SEO into an easy-to-use pay-as-you-go service with convenient plans starting at just $24 a month.
+Clearspike automates the SEO (Search Engine Optimization) process to help your website attract more organic search engine traffic. No technical expertise needed. No disapproved shortcut techniques. Takes just 15 mins a week.
 
 
-#How it works
-Clearspike is the easiest way to keep your site optimized, error-free and attractive for free organic search engine traffic. See how it works for you in these simple steps.
+<b>How it works</b><br>
+Optimizes site content using highly effective keywords that attract maximum traffic with minimal effort. Automated Keyword Recommendations. Auto-optimization of Page Title and Cues for Meta Content. Seamless updates via FTP.
 
-> 1. __Analyzes Site:__
->Clearspike analyzes your site every week. Follows and learns from your competitors' strategy. Creates a plan to keep your site attractive for search traffic, to promote it online, and keep it free of accessibility errors.
+Promotes your website to top search engines and premier web destinations with maximum ease. Automated Search Engine Submission. Automated Web Directory Submission. Hand-picked high-quality Submissions
 
->2. __Optimizes Content:__
->Recommends optimum keywords that attract maximum traffic with minimal effort. Helps you rewrite and automatically update page tags.
+Keeps your site error-free to enable search engines to access and include it in search results. Broken Links & Improper Redirection. Missing and Incomplete Sitemaps. Blocked Content Access.
 
->3. __Builds Reputation:__
->Promotes your website to Search Engines, Directories, and Social Networks. Targets only top-ranking internet properties so that you get maximum juice (Search Engine term for 'advantage') from Search Engines.
+<b>How would you measure success?</b><br>
+Track incremental traffic growth using your own Google Analytics Account. Over 6.5 Million Organic Visitors attracted for customer sites so far.
 
->4. __Fixes Errors:__
->Helps you fix issues that prevent Search Engines from accessing your website content or unintentional errors that can get it penalized and downgraded in search results.
+<b>Why you can't ignore Search Traffic?</b><br>
+Search Engines are used over millions of times every single day.
+65% of all buying decisions start on a Search Engine.
+Organic traffic is 80% of all Search traffic.
 
->5. __Tracks Results:__
->Tracks the growth in your traffic so that you get a clear picture of your return on investment.
+<b>Why Clearspike is loved by its customers?</b><br>
+Transparent results ~ Average 96% traffic growth in 3 months.
+Costs a fraction of agency fee ~ Less than monthly coffee bill.
+No risk ~ No long term contract.
+
+<b>Choose your plan</b><br>
+Self-Service Plan: Get custom recommendations and update website yourself. $24 / month.
+
+Automated Plan: Use Clearspike tools to get website optimized automatically. $49 / month.
+
+Do-It-For-Me Plan: Get Clearspike experts to optimize your website. $199 / month.
+
+[Clearspike Dashboard](/images/apps/clearspike/dashboard-1.png "Clearspike more traffic, no more hassle.")
+
+Have questions? Please [contact Clearspike Support](mailto:support@clearspike.com?Subject=CloudFlare%20Question).
 
 
 
-For any queries please [contact us.](mailto:support@clearspike.com?Subject=CloudFlare%20Question)
