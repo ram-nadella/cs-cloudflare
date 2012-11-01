@@ -2,11 +2,11 @@ Clearspike automates the SEO (Search Engine Optimization) process to help your w
 
 
 <b>How it works</b><br>
-Optimizes site content using highly effective keywords that attract maximum traffic with minimal effort. Automated Keyword Recommendations. Auto-optimization of Page Title and Cues for Meta Content. Seamless updates via FTP.
+Optimizes site content using highly effective keywords that attract maximum traffic with minimal effort. Includes Automated Keyword Recommendations, Auto-optimization of Page Title and Cues for Meta Content, Seamless updates via FTP.
 
-Promotes your website to top search engines and premier web destinations with maximum ease. Automated Search Engine Submission. Automated Web Directory Submission. Hand-picked high-quality Submissions
+Promotes your website to top search engines and premier web destinations with maximum ease. Includes Automated Search Engine Submission, Automated Web Directory Submission, Hand-picked high-quality Submissions.
 
-Keeps your site error-free to enable search engines to access and include it in search results. Broken Links & Improper Redirection. Missing and Incomplete Sitemaps. Blocked Content Access.
+Keeps your site error-free to enable search engines to access and include it in search results. Tracks Broken Links, Improper Redirection, Missing and Incomplete Sitemaps, Blocked Content.
 
 <b>How would you measure success?</b><br>
 Track incremental traffic growth using your own Google Analytics Account. Over 6.5 Million Organic Visitors attracted for customer sites so far.
@@ -18,7 +18,7 @@ Organic traffic is 80% of all Search traffic.
 
 <b>Why Clearspike is loved by its customers?</b><br>
 Transparent results ~ Average 96% traffic growth in 3 months.
-Costs a fraction of agency fee ~ Less than monthly coffee bill.
+Costs a fraction of agency fee.
 No risk ~ No long term contract.
 
 <b>Choose your plan</b><br>
