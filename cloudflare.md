@@ -1,4 +1,4 @@
-Clearspike automates the SEO (Search Engine Optimization) process to help your website attract more organic search engine traffic. No technical expertise needed. No disapproved shortcut techniques. Takes just 15 mins a week.
+Clearspike automates the SEO (Search Engine Optimization) process to help your website attract more organic search engine traffic. No technical expertise needed. No disapproved shortcut techniques. 
 
 
 <b>How it works</b><br>
