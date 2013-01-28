@@ -30,7 +30,8 @@
             "Language": "English",
             "Price": "Plans starting at just $24 a month",
             "Restrictions": "Up to 50 pages of your site are analyzed under all plans.",
-            "Terms": "<a href='http://www.clearspike.com/terms' target='_blank'>View terms</a>"
+            "Terms": "<a href='http://www.clearspike.com/terms' target='_blank'>View terms</a>",
+            "has_js": false
         },
         "assets":{
             "logos" : {
