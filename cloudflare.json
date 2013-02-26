@@ -2,7 +2,7 @@
     "name":"Clearspike",
     "description": "Attract organic search engine traffic and generate targeted inbound leads without touching any code, without spending more than a few minutes per week, and without using disapproved shortcuts.",
 	"category": "search engine optimization",
-    "version": "0.0.33",
+    "version": "0.0.34",
     "account": {
         "callback_url": "http://www.clearspike.com/cloudflare",
         "user_fields": ["email"]
@@ -29,7 +29,7 @@
             "Category": "search engine optimization",
             "Language": "English",
             "Price": "Plans starting at just $24 a month",
-            "Restrictions": "Up to 50 pages of your site are analyzed under all plans.",
+            "Restrictions": "Up to 50 pages of your site are analyzed under all plans. On-page SEO updates done using FTP, hence CMS and E-commerce sites can view simple recommendations and update pages directly in the back-end.",
             "Terms": "<a href='http://www.clearspike.com/terms' target='_blank'>View terms</a>",
             "has_js": false
         },
