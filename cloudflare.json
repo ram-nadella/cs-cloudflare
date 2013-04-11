@@ -2,7 +2,7 @@
     "name":"Clearspike",
     "description": "Attract organic search engine traffic and generate targeted inbound leads without touching any code, without spending more than a few minutes per week, and without using disapproved shortcuts.",
 	"category": "search engine optimization",
-    "version": "0.0.36",
+    "version": "0.0.40",
     "account": {
         "callback_url": "http://www.clearspike.com/cloudflare",
         "user_fields": ["email"]
