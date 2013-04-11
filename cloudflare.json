@@ -4,7 +4,7 @@
 	"category": "search engine optimization",
     "version": "0.0.41",
     "account": {
-        "callback_url": "http://www.clearspike.com/cloudflare",
+        "callback_url": "http://dummy-app-endpoint.herokuapp.com",
         "user_fields": ["email"]
     },
     "billing": {
